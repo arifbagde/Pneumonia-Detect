@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460262716850",
+    "firebase_url": "https://pneumonia-detect.firebaseio.com",
+    "project_id": "pneumonia-detect",
+    "storage_bucket": "pneumonia-detect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460262716850:android:7b7438ecb180a5fe1ea0ab",
+        "android_client_info": {
+          "package_name": "com.example.pneumoniadetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460262716850-bptkh1vkojmia8joap15uo7qnn8221t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDAaNnghdgo7MqCh5lxzq7F8eZrLIAKH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460262716850-bptkh1vkojmia8joap15uo7qnn8221t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
